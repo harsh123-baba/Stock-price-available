@@ -9,6 +9,7 @@ price_to_alert  = int(input("At which price i want alert : "))
 
 while(True):
     current_price = stock_info.get_live_price(company_name)
+    print(current_price)
     print("Current Profit : ", (current_price - price)*quantity)
     
     if(current_price <=price_to_alert):
