@@ -1,2 +1,2 @@
-to see how it works or how it is made full explanation is in this video
+Full Explaination video of this project
 https://youtu.be/qtWENzQvZaQ
